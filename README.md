@@ -5,8 +5,6 @@
 <a href="https://github.com/fabriciosaand"><img alt="GitHub Badge" src="https://img.shields.io/badge/-Fabricio%20Andrade-6633cc?style=flat-square&labelColor=6633cc&logo=github&logoColor=white&link=https://github.com/fabriciosaand"/></a>
 <br/>
 
-- 🔭 I’m currently working on [Ebserh](https://www.gov.br/ebserh/pt-br).
-- 🌱 I’m currently learning more about React.
 - 📫 How to reach me: [Linkdein](https://www.linkedin.com/in/fabriciosaand)
 - 😄 Pronouns: He/His
 
